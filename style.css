@@ -30,13 +30,11 @@ a{
     text-decoration: none;
     color: white;
 }
-.wrapper{
-    margin-top: 16px;
-}
+
 .content{
     width: 31%;
     float: left;
-    margin: 0 6px;
+    margin: 3px 6px;
     text-align: justify;   
 }
 img{
